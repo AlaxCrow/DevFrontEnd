@@ -17,6 +17,7 @@
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
+  text-align: justify;
 }
 
 .intro-img img,
